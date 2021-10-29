@@ -75,7 +75,7 @@ li{
 .nav__links::after{
     content: "";
     display: inline-block;
-    background-image: url(/assets/img/icon-arrow-light.svg);
+    background-image: url(../assets/img/icon-arrow-light.svg);
     background-repeat: no-repeat;
     background-position: center;
     width: 20px;
@@ -209,7 +209,7 @@ li{
     top: 20%;
     bottom: 20%;
     background-color: var(--section-footer-bg);
-    background-image: url(/assets/img/bg-pattern-circles.svg);
+    background-image: url(../assets/img/bg-pattern-circles.svg);
     z-index: -1;
     border-top-right-radius: 90px;
     border-bottom-left-radius: 90px;
@@ -296,7 +296,7 @@ li{
     }*/
 
     .nav__links::after{
-        background-image: url(/assets/img/icon-arrow-dark.svg);
+        background-image: url(../assets/img/icon-arrow-dark.svg);
     }
     
     .nav__links{
